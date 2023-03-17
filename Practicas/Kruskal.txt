@@ -1,0 +1,4 @@
+La arista 0 tiene vertices u 0 y v 2 de costo 2
+La arista 1 tiene vertices u 1 y v 2 de costo 3
+La arista 2 tiene vertices u 0 y v 3 de costo 4
+El costo total es de 9
